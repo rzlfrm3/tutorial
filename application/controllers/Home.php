@@ -18,5 +18,5 @@ class Home extends CI_Controller {
     print_r($data['query']);
     die();
     }
-}
+} jhjhgjh
 ?>
